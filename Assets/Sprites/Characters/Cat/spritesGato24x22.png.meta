@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 0d01c5c67d502404194fb26b18640e4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4007990719943050640
+    second: spritesGato24x22_0
+  - first:
+      213: -8851621348483803141
+    second: spritesGato24x22_1
+  - first:
+      213: -2223543199495132034
+    second: spritesGato24x22_2
+  - first:
+      213: 5893656630997607034
+    second: spritesGato24x22_3
+  - first:
+      213: 6024149458664218127
+    second: spritesGato24x22_4
+  - first:
+      213: 6807411826442244858
+    second: spritesGato24x22_5
+  - first:
+      213: -6567537718817916438
+    second: spritesGato24x22_6
+  - first:
+      213: 7882943420110023144
+    second: spritesGato24x22_7
+  - first:
+      213: 7267055707333846280
+    second: spritesGato24x22_8
+  - first:
+      213: 5721416777866410075
+    second: spritesGato24x22_9
+  - first:
+      213: -1022656222916243391
+    second: spritesGato24x22_10
+  - first:
+      213: -8912301084103904643
+    second: spritesGato24x22_11
+  - first:
+      213: -392761919858875915
+    second: spritesGato24x22_12
+  - first:
+      213: 4702177093152083202
+    second: spritesGato24x22_13
+  - first:
+      213: 3475629159490861287
+    second: spritesGato24x22_14
+  - first:
+      213: -198622570540072391
+    second: spritesGato24x22_15
+  - first:
+      213: 5377602225483256546
+    second: spritesGato24x22_16
+  - first:
+      213: 7689568643500254709
+    second: spritesGato24x22_17
+  - first:
+      213: 8439561753753201438
+    second: spritesGato24x22_18
+  - first:
+      213: 5898922109836872793
+    second: spritesGato24x22_19
+  - first:
+      213: -5189022938386899511
+    second: spritesGato24x22_20
+  - first:
+      213: 5690814908551207732
+    second: spritesGato24x22_21
+  - first:
+      213: -6270860843489857034
+    second: spritesGato24x22_22
+  - first:
+      213: -4889138016420883915
+    second: spritesGato24x22_23
+  - first:
+      213: -5385055721161345412
+    second: spritesGato24x22_24
+  - first:
+      213: -8473369522137123898
+    second: spritesGato24x22_25
+  - first:
+      213: 579834344924957941
+    second: spritesGato24x22_26
+  - first:
+      213: 9050360531175217326
+    second: spritesGato24x22_27
+  - first:
+      213: 2112716012708196701
+    second: spritesGato24x22_28
+  - first:
+      213: -4206136801395116826
+    second: spritesGato24x22_29
+  - first:
+      213: -2686934005697820921
+    second: spritesGato24x22_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesGato24x22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a7bbaeca1c068c0800000000000000
+      internalID: -4007990719943050640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7db5d0849b82580800000000000000
+      internalID: -8851621348483803141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c6b5bad336421e0800000000000000
+      internalID: -2223543199495132034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ecbeda797ac150800000000000000
+      internalID: 5893656630997607034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eda8de3041a9350800000000000000
+      internalID: 6024149458664218127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af212ea2df8c87e50800000000000000
+      internalID: 6807411826442244858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f0e4bd3b6bd4a0800000000000000
+      internalID: -6567537718817916438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e929246647d56d60800000000000000
+      internalID: 7882943420110023144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805eb9ec9a4c9d460800000000000000
+      internalID: 7267055707333846280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ffa00f3e866f40800000000000000
+      internalID: 5721416777866410075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1401cb1659bcec1f0800000000000000
+      internalID: -1022656222916243391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7278a62265215480800000000000000
+      internalID: -8912301084103904643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1e2856d11ac8af0800000000000000
+      internalID: -392761919858875915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d0f4c272d714140800000000000000
+      internalID: 4702177093152083202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8317e4e4aeb3030800000000000000
+      internalID: 3475629159490861287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932859e03d95e3df0800000000000000
+      internalID: -198622570540072391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e297497bb411aa40800000000000000
+      internalID: 5377602225483256546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5a0dfa0f5d6ba60800000000000000
+      internalID: 7689568643500254709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bae6843b85f1570800000000000000
+      internalID: 8439561753753201438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c4682b76e2dd150800000000000000
+      internalID: 5898922109836872793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd58125123ecf7b0800000000000000
+      internalID: -5189022938386899511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b11b21206d9fe40800000000000000
+      internalID: 5690814908551207732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f171eb894d69f8a0800000000000000
+      internalID: -6270860843489857034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321069b0ea462cb0800000000000000
+      internalID: -4889138016420883915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c763e745a507445b0800000000000000
+      internalID: -5385055721161345412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3356e305b886a80800000000000000
+      internalID: -8473369522137123898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc2ddb34cfb0800800000000000000
+      internalID: 579834344924957941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81ae5c3f6599d70800000000000000
+      internalID: 9050360531175217326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5170c81500e15d10800000000000000
+      internalID: 2112716012708196701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4752c3ddcc0a5c0800000000000000
+      internalID: -4206136801395116826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesGato24x22_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707c67ff1c716bad0800000000000000
+      internalID: -2686934005697820921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b66b5867dfcb42408c1a86021696b5d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spritesGato24x22_0: -4007990719943050640
+      spritesGato24x22_1: -8851621348483803141
+      spritesGato24x22_10: -1022656222916243391
+      spritesGato24x22_11: -8912301084103904643
+      spritesGato24x22_12: -392761919858875915
+      spritesGato24x22_13: 4702177093152083202
+      spritesGato24x22_14: 3475629159490861287
+      spritesGato24x22_15: -198622570540072391
+      spritesGato24x22_16: 5377602225483256546
+      spritesGato24x22_17: 7689568643500254709
+      spritesGato24x22_18: 8439561753753201438
+      spritesGato24x22_19: 5898922109836872793
+      spritesGato24x22_2: -2223543199495132034
+      spritesGato24x22_20: -5189022938386899511
+      spritesGato24x22_21: 5690814908551207732
+      spritesGato24x22_22: -6270860843489857034
+      spritesGato24x22_23: -4889138016420883915
+      spritesGato24x22_24: -5385055721161345412
+      spritesGato24x22_25: -8473369522137123898
+      spritesGato24x22_26: 579834344924957941
+      spritesGato24x22_27: 9050360531175217326
+      spritesGato24x22_28: 2112716012708196701
+      spritesGato24x22_29: -4206136801395116826
+      spritesGato24x22_3: 5893656630997607034
+      spritesGato24x22_30: -2686934005697820921
+      spritesGato24x22_4: 6024149458664218127
+      spritesGato24x22_5: 6807411826442244858
+      spritesGato24x22_6: -6567537718817916438
+      spritesGato24x22_7: 7882943420110023144
+      spritesGato24x22_8: 7267055707333846280
+      spritesGato24x22_9: 5721416777866410075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
