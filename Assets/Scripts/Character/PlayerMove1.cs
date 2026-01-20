@@ -9,14 +9,12 @@ public class PlayerMove1 : MonoBehaviour
     [SerializeField] private float speed = 5f;
     [SerializeField] private float acceleration = 10.0f;
     [SerializeField] private float deceleration = 10.0f;
-    private Animator animator;
     private Vector2 currentVelocity;
     private Vector2 movementInput;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
     }
 
     void Update()

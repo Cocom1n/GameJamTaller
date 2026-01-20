@@ -64,6 +64,11 @@ public class PlayerJump : MonoBehaviour
         }
     }
 
+    public bool IsGrounded()
+    {
+        return isGrounded;
+    }
+
     public void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
