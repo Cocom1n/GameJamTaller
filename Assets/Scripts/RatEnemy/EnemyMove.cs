@@ -85,4 +85,10 @@ public class EnemyMove : MonoBehaviour
         wayPoints.Add(newPoint);
     }
 
+    public void DetenerMovimiento()
+    {
+        StopAllCoroutines();
+        rb.linearVelocity = Vector2.zero;
+        enabled = false; // Desactiva el script para que no siga ejecutando FixedUpdate
+    }
 }

@@ -4,18 +4,20 @@ public class RataAnim : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+    private bool estaMuerto = false;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        ActualizarAnimaciones();
+        if (!estaMuerto)
+        {
+            ActualizarAnimaciones();
+        }
     }
 
     private void ActualizarAnimaciones()
@@ -28,5 +30,11 @@ public class RataAnim : MonoBehaviour
         {
             anim.SetInteger("State", 0);
         }
+    }
+
+    public void ActivarAnimacionMuerte()
+    {
+        estaMuerto = true;
+        anim.SetInteger("State", 2);
     }
 }

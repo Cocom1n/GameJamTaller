@@ -6,18 +6,18 @@ public class PlayerAnims : MonoBehaviour
     private Animator anim;
     private SpriteRenderer spriteRenderer;
     private PlayerJump playerJump;
+    private Disparar disparar;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         playerJump = GetComponent<PlayerJump>();
+        disparar = GetComponent<Disparar>();    
         anim.SetInteger("State", 0);
     }
 
-    // Update is called once per frame
     void Update()
     {
         OrientacionSprite();
@@ -66,6 +66,18 @@ public class PlayerAnims : MonoBehaviour
              if(Mathf.Abs(rb.linearVelocity.x) > 0.1f){
                 anim.SetInteger("State", 1);
             }else{
+                anim.SetInteger("State", 0);
+            }
+        }
+        
+        if(disparar != null)
+        {
+            if(disparar.GetArcoEquipado())
+            {
+                anim.SetInteger("State", 2);
+            }
+            else
+            {
                 anim.SetInteger("State", 0);
             }
         }
